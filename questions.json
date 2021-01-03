@@ -1,0 +1,49 @@
+
+{
+    "questions":[
+        {
+            "question" : "Do you prefer more acoustic songs?",
+            "attr" : "acoustic"
+        },
+
+        {
+            "question" : "Are you more of a dancer, or do you like to chill?",
+            "attr" : "dance"
+        },
+
+        {
+            "question" : "When you listen to the album, are you high energy?",
+            "attr" : "energy"
+        },
+
+        {
+            "question" : "Are you a fan of more instrumental songs?",
+            "attr" : "instrument"
+        },
+        
+        {
+            "question" : "Live or Recorded?",
+            "attr" : "liveness"
+        },
+
+        {
+            "question" : "How loud do you jam to this album?",
+            "attr" : "loud"
+        },
+
+        {
+            "question" : "How do you feel when listening to this album?",
+            "attr" : "valence"
+        },
+
+        {
+            "question" : "Do you like fast or slow songs?",
+            "attr" : "tempo"
+        },
+
+        {
+            "question" : "Whats better? Happy music or Sad Music?",
+            "attr" : "mode"
+        }
+    ]
+}
