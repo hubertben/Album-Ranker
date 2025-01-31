@@ -31,8 +31,8 @@ def confine(target, min, max, bound_min, bound_max):
 album_name = input('Album Name : ')
 artist = input('Artist Name (not required): ')
 
-client_id = "9b9d033e087f4e96b3c8e2a7548ee7c3"
-client_secret = "350fce8a98014d10a84929d62767236f"
+client_id = "..."
+client_secret = "..."
 
 client = SpotifyAPI(client_id, client_secret)
 if(artist == ''):
